@@ -1,0 +1,20 @@
+Course Name: CSIS 2200 - 008 - System Analysis and Design
+Student Name: Charlie Medialdea
+Document Name: Project Idea
+################################################################
+
+Idea: Compass card e-wallet
+
+** Functional Requirements **
+1. As a user I should be able to link my e-wallet with my bank account.
+2. As a user I should be able to reload my compass card using the balance in Compass card e-wallet.
+3. As a user I should be able to subscribe with monthly passes.
+4. As a user I should be able to view my compass card stored value.
+5. As a user I should be able to view all the transaction history.
+6. As a user I should be able to de-link my compass card from my e-wallet. (Security purpose incase physical card was lost).
+
+
+** Non-Functional Requirements **
+1. As I user I wanted to make sure all my data are secured.
+2. As I user I wanted to see a user-friendly e-wallet.
+3. As I user I wanted my e-wallet to be interoperability. (Works with all type of mobile devices).
